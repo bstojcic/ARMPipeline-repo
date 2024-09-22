@@ -20,7 +20,7 @@ steps:
     location: 'Central US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/bstojcic/ARMPipeline-repo/refs/heads/main/create_web_app/azuredeploy.json'
-    overrideParameters: '-projectName ARMPipeline-repo'
+    overrideParameters: '-projectName ARMPipelineBS'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
 
