@@ -1,0 +1,11 @@
+
+
+https://github.com/bstojcic/ARMPipeline-repo
+
+
+https://raw.githubusercontent.com/bstojcic/ARMPipeline-repo/refs/heads/main/create_web_app/azuredeploy.json
+
+
+Connection name:
+
+ARMPipeline-conn
